@@ -16,7 +16,7 @@ export default function NavBar(){
         </Link>
         </span>
         <span className="cursor-pointer hover:text-white">
-        <a href="https://ayushxvx.github.io/Dark-portfolio" target="_blank">
+        <a href="https://ayushxvxportfolio.netlify.app/" target="_blank">
             About me
         </a>
         </span>
